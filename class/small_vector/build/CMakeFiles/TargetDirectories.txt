@@ -1,0 +1,3 @@
+/workspaces/tum_concepts_of_cpp_programming/class/small_vector/build/CMakeFiles/small-vector.dir
+/workspaces/tum_concepts_of_cpp_programming/class/small_vector/build/CMakeFiles/edit_cache.dir
+/workspaces/tum_concepts_of_cpp_programming/class/small_vector/build/CMakeFiles/rebuild_cache.dir

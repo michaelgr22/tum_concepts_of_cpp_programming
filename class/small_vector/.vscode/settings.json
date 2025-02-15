@@ -1,0 +1,10 @@
+{
+    "cmake.ignoreCMakeListsMissing": true,
+    "files.associations": {
+        "print": "cpp"
+    },
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "C_Cpp.formatting": "clangFormat",
+    "editor.formatOnSave": true,
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true
+}

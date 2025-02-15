@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/tum_concepts_of_cpp_programming/class/small_vector/build",
+  "command": "/usr/bin/clang++-18   -g -std=gnu++23 -Wall -Wextra -Wpedantic -Werror -fsanitize=address -o CMakeFiles/small-vector.dir/small_vector.cpp.o -c /workspaces/tum_concepts_of_cpp_programming/class/small_vector/small_vector.cpp",
+  "file": "/workspaces/tum_concepts_of_cpp_programming/class/small_vector/small_vector.cpp",
+  "output": "CMakeFiles/small-vector.dir/small_vector.cpp.o"
+}
+]
