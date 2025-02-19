@@ -1,0 +1,8 @@
+exam.aux
+exam.fdb_latexmk
+exam.fls
+exam.log
+**/.vscode
+**/.idea
+**/cmake-build-debug
+**/build/
